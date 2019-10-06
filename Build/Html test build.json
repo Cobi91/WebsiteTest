@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HTML Test",
+"productVersion": "0.1",
+"dataUrl": "Html test build.data.unityweb",
+"wasmCodeUrl": "Html test build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Html test build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.4f1"
+}
